@@ -107,9 +107,9 @@ export default {
     return {
       config: {},
       calcul: {
-        nbDayWeek: undefined,
-        nbHourWeek: undefined,
-        nbWeekYear: undefined
+        nbDayWeek: 0,
+        nbHourWeek: 0,
+        nbWeekYear: 0
       },
       nbDayWeekReportCAF: "En attente",
       maxTauxNetCAF: "En attente",
